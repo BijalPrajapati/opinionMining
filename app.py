@@ -2,10 +2,10 @@ import tweepy
 import csv
 import pandas as pd
 ####input your credentials here
-consumer_key = 'OWefnzVZag8ocIflOS2XU2ZFb'
-consumer_secret = '1brbJunSiIX7pxDBQsbYq1a1GicaTWRICLkGiOMKXda73Cv6UU'
-access_token = '1195050243215245314-EUXEkijjyp0jeoJUUy1B9jjrDoUvHj'
-access_token_secret = 'j4OCrcobvTZR117s4Ug6jbpieiaIz83r1Oj5aKHA4ZEnW'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_token_secret = ''
 
 
 
